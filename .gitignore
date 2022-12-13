@@ -1,0 +1,4 @@
+# ignore all folder
+.vs/
+path finding/
+x64/
