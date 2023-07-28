@@ -17,7 +17,7 @@ Similarly, when the user selects the DFS algorithm, the program will visually de
 ### A* Algorithm Visualization:
 The project will showcase the A* algorithm, which uses heuristics to find the most promising path first. Users can observe the A* algorithm's efficiency compared to BFS and DFS, as it should generally find the shortest path faster.
 
-## dependecncy
+## Dependency
 
 ### Python 3.9
 ### Pygame 2.1.3
